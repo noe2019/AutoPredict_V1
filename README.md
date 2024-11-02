@@ -1,5 +1,3 @@
-Here's a comprehensive README file for your project:
-
 ```markdown
 # AutoML Task Generalizer
 
@@ -68,10 +66,6 @@ pycaret
 ydata-profiling
 ```
 
-## Error Handling
-- If there is an issue with data formatting or model setup, the app will display relevant error messages.
-- Ensure that the dataset has no severe formatting issues and that the target column is valid.
-
 ## Acknowledgements
 This project leverages the power of Streamlit for building interactive web applications and PyCaret for simplifying the machine learning model building process. YData Profiling is used to replace `pandas-profiling` for efficient EDA.
 
@@ -79,8 +73,5 @@ This project leverages the power of Streamlit for building interactive web appli
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or suggestions, please contact [Your Name] at [your email].
+For any questions or suggestions, please contact me at noecaremee@gmail.com.
 ```
-
-### Usage Note:
-Make sure to replace placeholders such as `<repository-url>`, `[Your Name]`, and `[your email]` with the appropriate information related to your project and contact details.
