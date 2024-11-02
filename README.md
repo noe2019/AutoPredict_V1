@@ -1,6 +1,5 @@
-```markdown
 # AutoML Task Generalizer
-
+```markdown
 ## Overview
 AutoML Task Generalizer is a web-based application built using Streamlit that automates the process of training machine learning models for both classification and regression tasks. The app offers a user-friendly interface for data upload, exploratory data analysis (EDA), model training, and downloading trained models. 
 
