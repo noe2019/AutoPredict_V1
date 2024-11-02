@@ -1,8 +1,11 @@
-#!/bin/bash
-
-# Update system packages and install Python 3.12 distutils
-sudo apt update
-sudo apt install -y python3.12-distutils
-
-# Install Python packages
-pip install -r requirements.txt
+mkdir -p ~/.streamlit/
+echo "\
+[general]\n\
+email = \"your-email@domain.com\"\n\
+" > ~/.streamlit/credentials.toml
+echo "\
+[server]\n\
+headless = true\n\
+enableCORS=false\n\
+port = $PORT\n\
+" > ~/.streamlit/config.toml
