@@ -13,7 +13,7 @@ AutoML Task Generalizer is a web-based application built using Streamlit that au
 ### 1. Installation
 Ensure you have Python installed (version 3.7+ recommended). Clone the repository and install the required packages:
 ```bash
-git clone <repository-url>
+git clone <AutoPredict_V1>
 cd automl-task-generalizer
 pip install -r requirements.txt
 ```
